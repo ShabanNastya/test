@@ -1,0 +1,32 @@
+{
+  "Длина": [
+    {
+      "name": "Метры",
+      "conversion": 1.0,
+      "base_unit": true
+    },
+    {
+      "name": "Киломметры",
+      "conversion": 0.001
+    },
+    {
+      "name": "Мили",
+      "conversion": 0.000621371
+    }
+  ],
+  "Масса": [
+    {
+      "name": "Килограммы",
+      "conversion": 1.0,
+      "base_unit": true
+    },
+    {
+      "name": "Граммы",
+      "conversion": 1000.0
+    },
+    {
+      "name": "Фунты",
+      "conversion": 2.20462
+    }
+  ]
+}
